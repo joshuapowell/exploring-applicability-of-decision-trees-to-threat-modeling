@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "J.I. Powell (2023) Exploring the Applicability of Decision Trees to Automated Threat Modeling., DOI: 00.0000/00000000.0000.0000000"
+authors:
+- family-names: "Powell"
+  given-names: "J.I."
+  orcid: "https://orcid.org/0000-0002-0894-2399"
+title: "Exploring the Applicability of Decision Trees to Automated Threat Modeling"
+version: 0.0.1
+doi: "00.0000/00000000.0000.0000000"
+date-released: 2023-03-30
+url: "https://github.com/joshuapowell/exploring-applicability-of-decision-trees-to-threat-modeling"
