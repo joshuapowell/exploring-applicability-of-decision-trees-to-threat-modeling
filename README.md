@@ -1,5 +1,5 @@
-# Exploring the Basics of Decision Trees
-Exploring the basics of decision trees and their applicability to threat modeling
+# Exploring the Applicability of Decision Trees to Automated Threat Modeling
+Exploring the basics of decision trees and their applicability to automate threat modeling in the development and deployment of REST APIs.
 
 # References
 1. Wikipedia contributors. (2023, November 27). Decision tree learning. Wikipedia. https://en.wikipedia.org/wiki/Decision_tree_learning
